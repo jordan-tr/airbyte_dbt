@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: foo
+    description: "this is a test"
+    columns:
+      - name: customer.id
+        description: "foobar"
+      - name: whatever
+        description: "all good in the hood"
